@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>basic-auth</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Spring Boot Basic Auth Demo</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -43,12 +43,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jetty</artifactId>
         </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-            <scope>runtime</scope>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -69,6 +63,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>

@@ -12,3 +12,4 @@ This repository consist of several REST API authentication/ authorization type a
 - [Basic Access Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
 - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 - [RESTful API Authentication Basics](https://blog.restcase.com/restful-api-authentication-basics/)
+- [Spring Boot Security Auto-Configuration](https://www.baeldung.com/spring-boot-security-autoconfiguration)

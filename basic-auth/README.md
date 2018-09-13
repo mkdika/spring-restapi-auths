@@ -1,6 +1,8 @@
 # Basic Authentication
 
 This is Spring Boot REST API Basic Authentication demo.
+Basic authentication is not suggested to use under non-SSL communication,
+due to the authentication data are not encrypted and only encode by Base64.
 
 ### Pre-requirement
 
@@ -10,13 +12,13 @@ This is Spring Boot REST API Basic Authentication demo.
 ### Build the Project
 
 ```console
-mvn clean package 
+mvnw clean package 
 ```
 
 ### Test the Project (Automatic)
 
 ```console
-mvn clean test
+mvnw clean test
 ```
 
 ### Run the Project
@@ -24,7 +26,7 @@ mvn clean test
 From maven:
 
 ```console
-mvn spring-boot:run
+mvnw spring-boot:run
 ```
 
 or, after `mvn clean package`, execute the file from `/target` folder:

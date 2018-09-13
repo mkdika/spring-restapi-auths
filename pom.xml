@@ -11,5 +11,6 @@
     <name>spring-restapi-auths</name>
     <modules>
         <module>basic-auth</module>
+        <module>jwt-auth</module>
     </modules>
 </project>
