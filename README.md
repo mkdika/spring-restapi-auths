@@ -7,6 +7,8 @@ This repository consist of several REST API authentication/ authorization type a
 - [Basic Authentication](/basic-auth/)
 - [JSON Web Token (JWT)](/jwt-auth/)
 - [API Key/Token Authentication](/apikey-auth/)
+- [Digest Authentication](/)
+- [OAuth2 Authentication](/)
 
 ### Related Document / Reference
 
