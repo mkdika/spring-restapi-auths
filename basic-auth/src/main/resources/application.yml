@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+security:
+  basic:
+    enabled: true
+  user:
+    name: foo
+    password: bar
