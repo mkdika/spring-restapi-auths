@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+apps:
+  security:
+    secret: foobar123456
+    expiration-time: 86400000
+    token-prefix: Bearer
+    header-string: Authorization
