@@ -5,7 +5,7 @@
 This repository consist of several REST API authentication/ authorization type and example, use Spring Boot 1.5 stack.
 
 - [Basic Authentication](/basic-auth/)
-- [JSON Web Token (JWT)](/)
+- [JSON Web Token (JWT)](/jwt-auth/)
 
 ### Related Document / Reference
 
