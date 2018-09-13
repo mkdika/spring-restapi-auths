@@ -12,5 +12,6 @@
     <modules>
         <module>basic-auth</module>
         <module>jwt-auth</module>
+        <module>apikey-auth</module>
     </modules>
 </project>

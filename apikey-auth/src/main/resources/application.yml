@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+apikey:
+  http:
+    auth-token-header-name: Authorization
+    auth-token: C3AB8FF13720E8AD9047DD39466B3C8974E592C2FA383D4A3960714CAEF0C4F2
+
+
+
