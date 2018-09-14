@@ -44,6 +44,10 @@ Use `curl`:
 ```console
 curl -u foo:bar http://localhost:8080/echo/maikel
 # will return: maikel
+
+# or use custom header
+curl -H "Authorization: Basic Zm9vOmJhcg==" http://localhost:8080/echo/maikel
+# will return: maikel
 ```
 
 Default username:`foo`, password: `bar`

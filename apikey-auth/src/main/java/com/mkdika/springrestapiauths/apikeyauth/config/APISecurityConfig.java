@@ -12,7 +12,7 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.AuthenticationException;
 
 @Configuration
-@EnableWebSecurity
+//@EnableWebSecurity
 public class APISecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Value("${apikey.http.auth-token-header-name}")
