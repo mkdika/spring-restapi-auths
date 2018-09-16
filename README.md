@@ -2,11 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
-This repository consist of several REST API authentication/ authorization type and example, use Spring Boot 1.5 stack.
+This repository consist of several REST API authentication/ authorization type and example, use Spring Boot 1.5 stack and Spring Security.
+
+Please visit each section by these link below:
 
 - [x] [Basic Authentication](/basic-auth/)
-- [ ] [JSON Web Token (JWT)](/jwt-auth/)
 - [x] [API Key/Token Authentication](/apikey-auth/)
+- [x] [JSON Web Token (JWT)](/jwt-auth/)
 - [ ] [Digest Authentication](/)
 - [ ] [OAuth2 Authentication](/)
 
@@ -16,3 +18,4 @@ This repository consist of several REST API authentication/ authorization type a
 - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token)
 - [RESTful API Authentication Basics](https://blog.restcase.com/restful-api-authentication-basics/)
 - [Spring Boot Security Auto-Configuration](https://www.baeldung.com/spring-boot-security-autoconfiguration)
+- [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)

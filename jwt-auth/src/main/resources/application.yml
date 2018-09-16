@@ -4,6 +4,8 @@ server:
 apps:
   security:
     secret: foobar123456
-    expiration-time: 86400000
     token-prefix: Bearer
     header-string: Authorization
+  user:
+    name: foo
+    password: bar
