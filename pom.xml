@@ -14,6 +14,6 @@
         <module>jwt-auth</module>
         <module>apikey-auth</module>
 				<module>digest-auth</module>
-				<module>oauth2</module>
+				<module>oauth2-auth</module>
     </modules>
 </project>

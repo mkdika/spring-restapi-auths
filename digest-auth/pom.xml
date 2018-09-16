@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>digest-auth</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot Digest Auth Demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

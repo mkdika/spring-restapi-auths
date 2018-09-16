@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mkdika.springrestapiauths</groupId>
-	<artifactId>oauth2</artifactId>
+	<artifactId>oauth2auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>oauth2</name>
-	<description>Demo project for Spring Boot</description>
+	<name>oauth2-auth</name>
+	<description>Spring Boot OAuth2 Auth Demo</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
