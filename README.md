@@ -1,4 +1,4 @@
-# Spring REST API Authentications Project
+# Spring REST API Authentications
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
@@ -19,3 +19,7 @@ Please visit each section by these link below:
 - [RESTful API Authentication Basics](https://blog.restcase.com/restful-api-authentication-basics/)
 - [Spring Boot Security Auto-Configuration](https://www.baeldung.com/spring-boot-security-autoconfiguration)
 - [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)
+
+## Copyright and License
+
+Copyright 2018 Maikel Chandika (mkdika@gmail.com). Code released under the MIT License. See [LICENSE](/LICENSE) file.
