@@ -49,7 +49,7 @@ curl -i -d "{\"username\": \"foo\",\"password\": \"bar\"}" -H "Content-Type: app
 
 Then you will get the result, attach this response `Authorization` value with each request:
 
-![Imgur](https://i.imgur.com/xjXNTld.png)
+![Imgur](https://i.imgur.com/QNHrRU6.png)
 
 ```console
 # request example
