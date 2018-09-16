@@ -13,5 +13,7 @@
         <module>basic-auth</module>
         <module>jwt-auth</module>
         <module>apikey-auth</module>
+				<module>digest-auth</module>
+				<module>oauth2</module>
     </modules>
 </project>
