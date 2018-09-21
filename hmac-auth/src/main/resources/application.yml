@@ -9,3 +9,6 @@ apps:
   security:
     hmac:
       secret: 3858f62230ac3c915f300c664312c63f
+  user:
+    name: foo
+    password: bar
