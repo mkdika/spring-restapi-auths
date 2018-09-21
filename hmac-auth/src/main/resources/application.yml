@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+security:
+  basic:
+    enabled: false
+
+apps:
+  security:
+    hmac:
+      secret: 3858f62230ac3c915f300c664312c63f
