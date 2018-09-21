@@ -9,7 +9,7 @@ Please visit each section by these link below:
 - [x] [Basic Authentication](/basic-auth/)
 - [x] [API Key/Token Authentication](/apikey-auth/)
 - [x] [JSON Web Token (JWT)](/jwt-auth/)
-- [ ] [Digest Authentication](/digest-auth/)
+- [x] [Digest Authentication](/digest-auth/)
 - [ ] [HMAC Authentication](/hmac-auth/)
 - [ ] [OAuth2 Authentication](/oauth2/)
 
