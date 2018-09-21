@@ -40,7 +40,7 @@ public class CustomAuthProvider implements AuthenticationManager {
             UserDetails user = new User(username, "", true, true,
                      true, true, new ArrayList<>());
             List<GrantedAuthority> granAuth = new ArrayList<>();
-            granAuth.add(new SimpleGrantedAuthority("ROLE_DEFAULT"));
+            granAuth.add(new SimpleGrantedAuthority("ROLE_USER"));
             return new UsernamePasswordAuthenticationToken(user, "", granAuth);
         }else {
             throw new BadCredentialsException("Bad credentials.");

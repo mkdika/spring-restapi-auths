@@ -1,6 +1,10 @@
 server:
   port: 8080
 
+security:
+  basic:
+    enabled: false
+
 apikey:
   http:
     auth-token-header-name: X-Token

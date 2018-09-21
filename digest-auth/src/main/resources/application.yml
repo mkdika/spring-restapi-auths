@@ -7,9 +7,9 @@ security:
 
 apps:
   security:
-    secret: foobar123456
-    token-prefix: Bearer
-    header-string: Authorization
+    realmname: MKDIKA.COM
+    key: mkdika
+    nonceseconds: 3600
   user:
     name: foo
     password: bar

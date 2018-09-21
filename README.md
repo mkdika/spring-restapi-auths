@@ -19,6 +19,8 @@ Please visit each section by these link below:
 - [RESTful API Authentication Basics](https://blog.restcase.com/restful-api-authentication-basics/)
 - [Spring Boot Security Auto-Configuration](https://www.baeldung.com/spring-boot-security-autoconfiguration)
 - [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)
+- [Spring Security Digest Authentication](https://www.baeldung.com/spring-security-digest-authentication)
+- [What is HMAC Authentication and why is it useful?](https://www.wolfe.id.au/2012/10/20/what-is-hmac-authentication-and-why-is-it-useful/)
 
 ## Copyright and License
 
