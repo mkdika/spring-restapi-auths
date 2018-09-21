@@ -7,7 +7,6 @@ due to the authentication data are not encrypted and only encode by Base64.
 ### Pre-requirement
 
 - JDK 8
-- Maven3
 
 ### Build the Project
 

@@ -6,7 +6,6 @@ In order to have a JWT token and use for each request, we need to get authentica
 ### Pre-requirement
 
 - JDK 8
-- Maven3
 
 ### Build the Project
 

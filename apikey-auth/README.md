@@ -7,7 +7,6 @@ predefine key value.
 ### Pre-requirement
 
 - JDK 8
-- Maven3
 
 ### Build the Project
 
