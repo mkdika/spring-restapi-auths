@@ -11,7 +11,7 @@ Please visit each section by these link below:
 - [x] [JSON Web Token (JWT)](/jwt-auth/)
 - [x] [Digest Authentication](/digest-auth/)
 - [ ] [HMAC Authentication](/hmac-auth/)
-- [ ] [OAuth2 Authentication](/oauth2/)
+- [ ] [OAuth2 Authentication](/oauth2-auth/)
 
 ### Related Document / Reference
 
